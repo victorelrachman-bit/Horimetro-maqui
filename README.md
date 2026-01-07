@@ -1,6 +1,3 @@
-# Sistema embarcado: Horímetro
-
-## Objetivo
   # Sistema embarcado: Horímetro
 
 ## Objetivo
